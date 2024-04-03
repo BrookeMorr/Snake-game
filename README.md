@@ -4,7 +4,9 @@ The famous snake game written in Java, in which a player uses the arrow keys to 
 ## Personal reflection
 💭 **Process:**
 
-📚 **Learnings:**
+📚 **Learnings:** 
+- Key Learner
+- ActionListener
 
 ⭐ **Improvement:**
 
